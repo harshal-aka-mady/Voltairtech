@@ -1,2 +1,0 @@
-# Voltairtech
-voltair godaddy
